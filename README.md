@@ -23,5 +23,8 @@
   4. Add you modifications and push it back to your remote repo
   5. create a pull request where you merge from "your work" into "open-source"
   6. Your request will either be accepted or rejected by the open-source repo owner
+
+### Task Summary
+  In this task we recaped the main terms in the git and github world, defining, explaining and distinguishing between them. Additionally we tackeld the main git commands such as; clone, push, pull, fork and much more.  
   
 
